@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//
 int main(void) {
 printf("Memory occupied using the following datatypes:\n");
 printf("char         :%2d byte(s)\n",sizeof(char));
